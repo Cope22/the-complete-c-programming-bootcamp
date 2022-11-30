@@ -5,9 +5,5 @@ int main() {
     return 0;
 }
 
-_ADDRESSOFsadsa
-dsa
-sa
-da
 
-a
+Promena teksta za git 
