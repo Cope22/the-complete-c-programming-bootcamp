@@ -1,9 +1,18 @@
 #include <stdio.h>
 
-int main() {
-    printf("Hello");
-    return 0;
+int main ()
+
+{
+char str [100];
+int i;
+printf ("Unesi vrednost: ");
+scanf ("%d", &i);
+
+printf ("\nUneo si: %d\n", i);
+
+return 0;
+
+
+
+
 }
-
-
-Promena teksta za git 
